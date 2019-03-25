@@ -1,10 +1,11 @@
 package me.btcjp.java;
 
-import junit.framework.TestCase;
+import org.junit.*;
 import static org.mockito.Mockito.*;
 
-public class TweetClientTest extends TestCase {
+public class TweetClientTest {
 
+    @Test
     public void testSendMessage() {
         TweetClient tweetClient = new TweetClient();
         ITweet iTweet = mock(ITweet.class);

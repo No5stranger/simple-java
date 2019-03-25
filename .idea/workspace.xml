@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8638cf5a-ce4d-4653-916e-18fc3a0e0490" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/btcjp/java/SimpleMathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/btcjp/java/SimpleMathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/me/btcjp/java/TweetClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/btcjp/java/TweetClientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/step-try.iml" beforeDir="false" afterPath="$PROJECT_DIR$/step-try.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,39 +21,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="345">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/btcjp/java/TweetClient.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/btcjp/java/MyList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="276">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
               <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/btcjp/java/ITweet.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/MyListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/TweetClientTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,8 +57,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/SimpleMathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/TweetClientTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,8 +94,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Singleton" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,15 +105,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/me/btcjp/java/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/btcjp/java/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/btcjp/java/SimpleMath.java" />
-        <option value="$PROJECT_DIR$/src/test/java/me/btcjp/java/SimpleMathTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/me/btcjp/java/ITweetImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/me/btcjp/java/TweetClientTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/btcjp/java/ITweet.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/btcjp/java/TweetClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/btcjp/java/MyList.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/me/btcjp/java/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/me/btcjp/java/TweetClientTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/me/btcjp/java/SimpleMathTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/me/btcjp/java/MyListTest.java" />
       </list>
     </option>
   </component>
@@ -187,20 +211,20 @@
             <path>
               <item name="step_try" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mockito:mockito-core:2.23.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="step_try" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mockito:mockito-core:2.23.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="mockito-core-2.23.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.11.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="step_try" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mockito:mockito-core:2.23.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="mockito-core-2.23.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mockito" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553442178490" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553531855390" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -229,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TweetClientTest.testSendMessage">
+  <component name="RunManager" selected="JUnit.SimpleMathTest">
     <configuration name="AppTest.testMulti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="step-try" />
       <extension name="coverage">
@@ -242,6 +266,36 @@
       <option name="MAIN_CLASS_NAME" value="me.btcjp.java.AppTest" />
       <option name="METHOD_NAME" value="testMulti" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step-try" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.btcjp.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.btcjp.java" />
+      <option name="MAIN_CLASS_NAME" value="me.btcjp.java.MyListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step-try" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.btcjp.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.btcjp.java" />
+      <option name="MAIN_CLASS_NAME" value="me.btcjp.java.SimpleMathTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -280,6 +334,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SimpleMathTest" />
+        <item itemvalue="JUnit.MyListTest" />
         <item itemvalue="JUnit.TweetClientTest.testSendMessage" />
         <item itemvalue="JUnit.SimpleMathTest.testReminder" />
         <item itemvalue="JUnit.AppTest.testMulti" />
@@ -297,7 +353,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553417130331</updated>
       <workItem from="1553417131659" duration="1699000" />
-      <workItem from="1553437948171" duration="2344000" />
+      <workItem from="1553437948171" duration="4984000" />
     </task>
     <servers />
   </component>
@@ -305,9 +361,15 @@
     <history-entry file="TweetClientTest_testSendMessage - 2019.03.24 at 23h 36m 25s.xml">
       <configuration name="TweetClientTest.testSendMessage" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyListTest - 2019.03.26 at 00h 18m 12s.xml">
+      <configuration name="MyListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleMathTest - 2019.03.26 at 00h 33m 56s.xml">
+      <configuration name="SimpleMathTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4043000" />
+    <option name="totallyTimeSpent" value="6683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
@@ -330,7 +392,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32982087" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32982087" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -352,13 +414,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/junit/framework/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/junit/framework/TestCase.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -373,18 +428,6 @@
           <folding>
             <element signature="e#220#221#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -406,13 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/SimpleMathTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/btcjp/java/SimpleMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -420,10 +456,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/btcjp/java/ITweet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -438,20 +474,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/RandomStringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/junit/framework/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/TweetClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="322">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/btcjp/java/ITweet.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/SimpleMathTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/btcjp/java/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/me/btcjp/java/MyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
